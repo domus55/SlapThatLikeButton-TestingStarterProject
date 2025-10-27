@@ -1,0 +1,4 @@
+requests==2.26.0
+pytest~=6.2.5
+slapping~=0.0.0
+setuptools~=80.9.0
